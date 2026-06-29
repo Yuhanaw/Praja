@@ -5,3 +5,4 @@ championship
 anak sholehah
 cerdas
 rich
+sukses
