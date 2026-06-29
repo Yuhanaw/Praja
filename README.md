@@ -7,3 +7,4 @@ cerdas
 rich
 sukses
 rahma
+pandai
