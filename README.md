@@ -6,3 +6,4 @@ anak sholehah
 cerdas
 rich
 sukses
+rahma
