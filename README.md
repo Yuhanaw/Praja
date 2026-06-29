@@ -4,3 +4,4 @@ santika
 championship
 anak sholehah
 cerdas
+rich
